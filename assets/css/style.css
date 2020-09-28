@@ -1,25 +1,29 @@
+/* Selector universal all page will have color d9dcd6  */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*  Change background color all document   */
 body {
     background-color: #d9dcd6;
 }
 
+/*  All elements header have this properties   */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*  Change background color    */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*  Change background color    */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +53,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*  This class is no in use -   */
 .hero {
     height: 800px;
     width: 100%;
@@ -116,23 +120,7 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -187,14 +175,30 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/*  The imagen has    */
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
-    font-size: 20px;
+/*  Change foother h2 font size    */
+#footer h2 {
+    font-size: 10px;
 }
