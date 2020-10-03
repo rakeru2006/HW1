@@ -44,7 +44,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/*  Change color de a   */
+/*  Change color de los link   */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -77,6 +77,8 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+   
+
 }
 
 .benefits {
@@ -181,7 +183,7 @@ p {
 }
 
 .benefit-lead p {
-    font-size: 30px;
+    font-size: 16px;
 }
 
 /*Name missing - */
