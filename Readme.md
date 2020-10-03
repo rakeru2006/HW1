@@ -93,16 +93,20 @@ This homework is graded based on the following criteria:
 
 * Application resembles (at least 90%) screenshots provided in the homework instructions.
 ![alt text](1.png)
-
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
 
 ### Repository Quality: 13%
 
 
 
 * Repository has a unique name. 
-rakeru2006/HW1
+[a link](https://github.com/rakeru2006/HW1)
+
 
 * Repository follows best practices for file structure and naming conventions.
+
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
