@@ -6,9 +6,6 @@
 
 This week is an odd-numbered week, so your homework is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's homework involves a very important aspect of web development: **accessibility**. 
 
-  **Accessibility
-  Intentionally designing experiences (such as a building, recreational facility, program, activity, or online resource) to be easily usable for individuals with   disabilities. For example, creating an accessible pool could include incorporating pool lifts or sloped entries**
-
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this homework, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
@@ -16,8 +13,6 @@ Web accessibility is an increasingly important consideration for businesses. It 
 Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
 
 **Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
-
-   **The Boy Scout Rule can be summarized as: Leave your code better than you found it. Boy Scouts have a rule regarding camping, that they should leave the          campground cleaner than they found it**
 
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly.
 
@@ -34,13 +29,6 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-**Web Content Accessibility Guidelines (WCAG) is developed through the W3C process in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for web content accessibility that meets the needs of individuals, organizations, and governments internationally.
-<a href="http://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/">Techniques for WCAG 2.0 published 11 December 2008</a>
-
-The WCAG documents explain how to make web content more accessible to people with disabilities. Web “content” generally refers to the information in a web page or web application, including:
-
-natural information such as text, images, and sounds
-code or markup that defines structure, presentation, etc.
 **
 ## Acceptance Criteria
 
@@ -103,8 +91,8 @@ This homework is graded based on the following criteria:
 
 * Repository has a unique name. 
 [a link](https://github.com/rakeru2006/HW1)
-
-
+<a href="https://github.com/rakeru2006/HW1">Repositorio Homework1</a>
+<a href="https://github.com/rakeru2006/HW1">Github web page Homework1</a>
 * Repository follows best practices for file structure and naming conventions.
 
 
