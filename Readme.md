@@ -57,7 +57,21 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
+##Basic HTML tags
+There are some important tagsto create an HTML document:
+```
+<body> for content
+<head> for information about the document
+<div> division within content
+<a> for links
+<strong> to make the text bold
+<br> for line breaks
+<H1> … <H6> for titles within content
+<img> to add images to the document
+<ol> for ordered lists, <ul> for unordered lists, <li> for elements within the list
+<p> for paragraphs
+<span> for styles of a part of the text
+```
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
