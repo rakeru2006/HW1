@@ -20,7 +20,7 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 
 
-Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+3. Item 3 Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 Are you ready to jump in? Here are this week's homework requirements:
 
@@ -28,9 +28,19 @@ Are you ready to jump in? Here are this week's homework requirements:
 
 ```
 AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+ I WANT a codebase that follows accessibility standards
+ SO THAT our own site is optimized for search engines
 ```
+4. Item 4 Site is optimized for search engines
+```
+    <meta charset="UTF-8">
+    <meta name="description" content=" Search Engine Optimization (SEO)">
+    <meta name="keywords" content=" Management,ranking, Social Media, Marketing ">
+    <meta name="author" content=" Horiseon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+```
+
 **
 ## Acceptance Criteria
 
