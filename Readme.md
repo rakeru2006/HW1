@@ -92,7 +92,7 @@ This homework is graded based on the following criteria:
 ### Application Quality: 15%
 
 * Application resembles (at least 90%) screenshots provided in the homework instructions.
-
+![alt text](1.png)
 
 
 ### Repository Quality: 13%
