@@ -44,10 +44,18 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+
+
 /*  Change color de los link   */
 a {
     color: #ffffff;
     text-decoration: none;
+}
+/*  Change color de todos los parrafos del documento  */
+#p_color{
+    font-size: 16px;
+    background-color: blue;
 }
 /*  Change color de todos los parrafos del documento  */
 p {
