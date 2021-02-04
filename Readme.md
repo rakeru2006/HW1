@@ -175,7 +175,7 @@ Demo aplication
 
 Demo running
 
-![demo](https://github.com/rakeru2006/api_node_mysql/blob/main/node.png)
+![demo](https://github.com/rakeru2006/HW1/blob/master/4.png)
 
 
 
